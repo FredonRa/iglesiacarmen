@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/iglesiacarmen/static/css/main.fff24358.chunk.css",
+    "main.js": "/iglesiacarmen/static/js/main.d1b89858.chunk.js",
+    "main.js.map": "/iglesiacarmen/static/js/main.d1b89858.chunk.js.map",
+    "runtime-main.js": "/iglesiacarmen/static/js/runtime-main.25ed4619.js",
+    "runtime-main.js.map": "/iglesiacarmen/static/js/runtime-main.25ed4619.js.map",
+    "static/css/2.5be9a1ee.chunk.css": "/iglesiacarmen/static/css/2.5be9a1ee.chunk.css",
+    "static/js/2.0631fa4f.chunk.js": "/iglesiacarmen/static/js/2.0631fa4f.chunk.js",
+    "static/js/2.0631fa4f.chunk.js.map": "/iglesiacarmen/static/js/2.0631fa4f.chunk.js.map",
+    "index.html": "/iglesiacarmen/index.html",
+    "static/css/2.5be9a1ee.chunk.css.map": "/iglesiacarmen/static/css/2.5be9a1ee.chunk.css.map",
+    "static/css/main.fff24358.chunk.css.map": "/iglesiacarmen/static/css/main.fff24358.chunk.css.map",
+    "static/js/2.0631fa4f.chunk.js.LICENSE.txt": "/iglesiacarmen/static/js/2.0631fa4f.chunk.js.LICENSE.txt",
+    "static/media/canonizacion.157a7630.png": "/iglesiacarmen/static/media/canonizacion.157a7630.png",
+    "static/media/capilla.ce6c4d2a.jpg": "/iglesiacarmen/static/media/capilla.ce6c4d2a.jpg",
+    "static/media/carisma.20b5f770.png": "/iglesiacarmen/static/media/carisma.20b5f770.png",
+    "static/media/carismabg.2b1bf445.png": "/iglesiacarmen/static/media/carismabg.2b1bf445.png",
+    "static/media/catequesis.befed785.png": "/iglesiacarmen/static/media/catequesis.befed785.png",
+    "static/media/enseñanza.845d409e.png": "/iglesiacarmen/static/media/enseñanza.845d409e.png",
+    "static/media/enseñanza2.44d8be1f.png": "/iglesiacarmen/static/media/enseñanza2.44d8be1f.png",
+    "static/media/fundadora.dff852ff.png": "/iglesiacarmen/static/media/fundadora.dff852ff.png",
+    "static/media/fundadora2.bc27bd86.png": "/iglesiacarmen/static/media/fundadora2.bc27bd86.png",
+    "static/media/hermanas1.ad47ca52.jpg": "/iglesiacarmen/static/media/hermanas1.ad47ca52.jpg",
+    "static/media/hermanas2.1c51746d.jpg": "/iglesiacarmen/static/media/hermanas2.1c51746d.jpg",
+    "static/media/hermanas3.fdf0039d.jpg": "/iglesiacarmen/static/media/hermanas3.fdf0039d.jpg",
+    "static/media/misioneras.24ff135a.png": "/iglesiacarmen/static/media/misioneras.24ff135a.png",
+    "static/media/misioneras2.8d89333d.png": "/iglesiacarmen/static/media/misioneras2.8d89333d.png",
+    "static/media/visita.f2130da1.png": "/iglesiacarmen/static/media/visita.f2130da1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25ed4619.js",
+    "static/css/2.5be9a1ee.chunk.css",
+    "static/js/2.0631fa4f.chunk.js",
+    "static/css/main.fff24358.chunk.css",
+    "static/js/main.d1b89858.chunk.js"
+  ]
+}
