@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/iglesiacarmen/static/css/main.fff24358.chunk.css",
-    "main.js": "/iglesiacarmen/static/js/main.d1b89858.chunk.js",
-    "main.js.map": "/iglesiacarmen/static/js/main.d1b89858.chunk.js.map",
+    "main.js": "/iglesiacarmen/static/js/main.4de73d59.chunk.js",
+    "main.js.map": "/iglesiacarmen/static/js/main.4de73d59.chunk.js.map",
     "runtime-main.js": "/iglesiacarmen/static/js/runtime-main.25ed4619.js",
     "runtime-main.js.map": "/iglesiacarmen/static/js/runtime-main.25ed4619.js.map",
     "static/css/2.5be9a1ee.chunk.css": "/iglesiacarmen/static/css/2.5be9a1ee.chunk.css",
@@ -33,6 +33,6 @@
     "static/css/2.5be9a1ee.chunk.css",
     "static/js/2.0631fa4f.chunk.js",
     "static/css/main.fff24358.chunk.css",
-    "static/js/main.d1b89858.chunk.js"
+    "static/js/main.4de73d59.chunk.js"
   ]
 }
