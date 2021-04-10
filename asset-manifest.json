@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/iglesiacarmen/static/css/main.adef579d.chunk.css",
-    "main.js": "/iglesiacarmen/static/js/main.1159e0a5.chunk.js",
-    "main.js.map": "/iglesiacarmen/static/js/main.1159e0a5.chunk.js.map",
+    "main.js": "/iglesiacarmen/static/js/main.089a0f71.chunk.js",
+    "main.js.map": "/iglesiacarmen/static/js/main.089a0f71.chunk.js.map",
     "runtime-main.js": "/iglesiacarmen/static/js/runtime-main.25ed4619.js",
     "runtime-main.js.map": "/iglesiacarmen/static/js/runtime-main.25ed4619.js.map",
     "static/css/2.5be9a1ee.chunk.css": "/iglesiacarmen/static/css/2.5be9a1ee.chunk.css",
@@ -12,11 +12,25 @@
     "static/css/2.5be9a1ee.chunk.css.map": "/iglesiacarmen/static/css/2.5be9a1ee.chunk.css.map",
     "static/css/main.adef579d.chunk.css.map": "/iglesiacarmen/static/css/main.adef579d.chunk.css.map",
     "static/js/2.f78471dd.chunk.js.LICENSE.txt": "/iglesiacarmen/static/js/2.f78471dd.chunk.js.LICENSE.txt",
-    "static/media/backgroundHome.7ac84cb2.jpg": "/iglesiacarmen/static/media/backgroundHome.7ac84cb2.jpg",
+    "static/media/1.5867455e.png": "/iglesiacarmen/static/media/1.5867455e.png",
+    "static/media/10.5484f2a0.png": "/iglesiacarmen/static/media/10.5484f2a0.png",
+    "static/media/2.9bf81e91.png": "/iglesiacarmen/static/media/2.9bf81e91.png",
+    "static/media/3.a8e46396.png": "/iglesiacarmen/static/media/3.a8e46396.png",
+    "static/media/4.af114201.png": "/iglesiacarmen/static/media/4.af114201.png",
+    "static/media/5.555d609d.png": "/iglesiacarmen/static/media/5.555d609d.png",
+    "static/media/6.ef1cd686.png": "/iglesiacarmen/static/media/6.ef1cd686.png",
+    "static/media/7.d6090e54.png": "/iglesiacarmen/static/media/7.d6090e54.png",
+    "static/media/8.451fca2f.png": "/iglesiacarmen/static/media/8.451fca2f.png",
+    "static/media/9.8d63d9ea.png": "/iglesiacarmen/static/media/9.8d63d9ea.png",
+    "static/media/backgroundHome2.a3d87ee1.jpg": "/iglesiacarmen/static/media/backgroundHome2.a3d87ee1.jpg",
     "static/media/canonizacion.157a7630.png": "/iglesiacarmen/static/media/canonizacion.157a7630.png",
     "static/media/canonizacion2.21042145.png": "/iglesiacarmen/static/media/canonizacion2.21042145.png",
+    "static/media/capilla.ce6c4d2a.jpg": "/iglesiacarmen/static/media/capilla.ce6c4d2a.jpg",
     "static/media/capilla2.9fd87862.jpg": "/iglesiacarmen/static/media/capilla2.9fd87862.jpg",
+    "static/media/capilla3.f7036deb.jpg": "/iglesiacarmen/static/media/capilla3.f7036deb.jpg",
+    "static/media/capilla4.274199ea.jpg": "/iglesiacarmen/static/media/capilla4.274199ea.jpg",
     "static/media/carisma.20b5f770.png": "/iglesiacarmen/static/media/carisma.20b5f770.png",
+    "static/media/carisma2.419731e4.jpg": "/iglesiacarmen/static/media/carisma2.419731e4.jpg",
     "static/media/carismabg.2b1bf445.png": "/iglesiacarmen/static/media/carismabg.2b1bf445.png",
     "static/media/carruselCap1.5a75c0ef.jpeg": "/iglesiacarmen/static/media/carruselCap1.5a75c0ef.jpeg",
     "static/media/carruselCap10.f608e2d8.jpeg": "/iglesiacarmen/static/media/carruselCap10.f608e2d8.jpeg",
@@ -54,6 +68,6 @@
     "static/css/2.5be9a1ee.chunk.css",
     "static/js/2.f78471dd.chunk.js",
     "static/css/main.adef579d.chunk.css",
-    "static/js/main.1159e0a5.chunk.js"
+    "static/js/main.089a0f71.chunk.js"
   ]
 }
