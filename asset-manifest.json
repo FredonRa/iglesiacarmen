@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/iglesiacarmen/static/css/main.adef579d.chunk.css",
-    "main.js": "/iglesiacarmen/static/js/main.e50ed575.chunk.js",
-    "main.js.map": "/iglesiacarmen/static/js/main.e50ed575.chunk.js.map",
+    "main.js": "/iglesiacarmen/static/js/main.f2ce43ef.chunk.js",
+    "main.js.map": "/iglesiacarmen/static/js/main.f2ce43ef.chunk.js.map",
     "runtime-main.js": "/iglesiacarmen/static/js/runtime-main.25ed4619.js",
     "runtime-main.js.map": "/iglesiacarmen/static/js/runtime-main.25ed4619.js.map",
     "static/css/2.5be9a1ee.chunk.css": "/iglesiacarmen/static/css/2.5be9a1ee.chunk.css",
-    "static/js/2.8954f2a7.chunk.js": "/iglesiacarmen/static/js/2.8954f2a7.chunk.js",
-    "static/js/2.8954f2a7.chunk.js.map": "/iglesiacarmen/static/js/2.8954f2a7.chunk.js.map",
+    "static/js/2.f24550ec.chunk.js": "/iglesiacarmen/static/js/2.f24550ec.chunk.js",
+    "static/js/2.f24550ec.chunk.js.map": "/iglesiacarmen/static/js/2.f24550ec.chunk.js.map",
     "index.html": "/iglesiacarmen/index.html",
     "static/css/2.5be9a1ee.chunk.css.map": "/iglesiacarmen/static/css/2.5be9a1ee.chunk.css.map",
     "static/css/main.adef579d.chunk.css.map": "/iglesiacarmen/static/css/main.adef579d.chunk.css.map",
-    "static/js/2.8954f2a7.chunk.js.LICENSE.txt": "/iglesiacarmen/static/js/2.8954f2a7.chunk.js.LICENSE.txt",
+    "static/js/2.f24550ec.chunk.js.LICENSE.txt": "/iglesiacarmen/static/js/2.f24550ec.chunk.js.LICENSE.txt",
     "static/media/1.5867455e.png": "/iglesiacarmen/static/media/1.5867455e.png",
     "static/media/10.5484f2a0.png": "/iglesiacarmen/static/media/10.5484f2a0.png",
     "static/media/2.9bf81e91.png": "/iglesiacarmen/static/media/2.9bf81e91.png",
@@ -34,15 +34,15 @@
     "static/media/carisma.20b5f770.png": "/iglesiacarmen/static/media/carisma.20b5f770.png",
     "static/media/carisma2.419731e4.jpg": "/iglesiacarmen/static/media/carisma2.419731e4.jpg",
     "static/media/carismabg.2b1bf445.png": "/iglesiacarmen/static/media/carismabg.2b1bf445.png",
+    "static/media/carmenHome.36c57f3a.jpg": "/iglesiacarmen/static/media/carmenHome.36c57f3a.jpg",
     "static/media/catequesis.befed785.png": "/iglesiacarmen/static/media/catequesis.befed785.png",
     "static/media/collage.4b5e9f9d.png": "/iglesiacarmen/static/media/collage.4b5e9f9d.png",
     "static/media/coro.259f52d7.jpg": "/iglesiacarmen/static/media/coro.259f52d7.jpg",
     "static/media/devocionesParticulares.3f620def.jpg": "/iglesiacarmen/static/media/devocionesParticulares.3f620def.jpg",
     "static/media/enseñanza.845d409e.png": "/iglesiacarmen/static/media/enseñanza.845d409e.png",
     "static/media/enseñanza2.44d8be1f.png": "/iglesiacarmen/static/media/enseñanza2.44d8be1f.png",
-    "static/media/fundadora.dff852ff.png": "/iglesiacarmen/static/media/fundadora.dff852ff.png",
-    "static/media/fundadora2.bc27bd86.png": "/iglesiacarmen/static/media/fundadora2.bc27bd86.png",
     "static/media/hermanas11.d6e38d1d.jfif": "/iglesiacarmen/static/media/hermanas11.d6e38d1d.jfif",
+    "static/media/hermanas2-color.6bdedd26.jpg": "/iglesiacarmen/static/media/hermanas2-color.6bdedd26.jpg",
     "static/media/hermanas22.566ca7b6.jfif": "/iglesiacarmen/static/media/hermanas22.566ca7b6.jfif",
     "static/media/hermanas33.d43c6e85.jfif": "/iglesiacarmen/static/media/hermanas33.d43c6e85.jfif",
     "static/media/isabelyhnas.ceb793b4.png": "/iglesiacarmen/static/media/isabelyhnas.ceb793b4.png",
@@ -64,8 +64,8 @@
   "entrypoints": [
     "static/js/runtime-main.25ed4619.js",
     "static/css/2.5be9a1ee.chunk.css",
-    "static/js/2.8954f2a7.chunk.js",
+    "static/js/2.f24550ec.chunk.js",
     "static/css/main.adef579d.chunk.css",
-    "static/js/main.e50ed575.chunk.js"
+    "static/js/main.f2ce43ef.chunk.js"
   ]
 }
