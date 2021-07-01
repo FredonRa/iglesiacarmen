@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/iglesiacarmen/static/css/main.adef579d.chunk.css",
-    "main.js": "/iglesiacarmen/static/js/main.f2ce43ef.chunk.js",
-    "main.js.map": "/iglesiacarmen/static/js/main.f2ce43ef.chunk.js.map",
+    "main.js": "/iglesiacarmen/static/js/main.9304407b.chunk.js",
+    "main.js.map": "/iglesiacarmen/static/js/main.9304407b.chunk.js.map",
     "runtime-main.js": "/iglesiacarmen/static/js/runtime-main.25ed4619.js",
     "runtime-main.js.map": "/iglesiacarmen/static/js/runtime-main.25ed4619.js.map",
     "static/css/2.5be9a1ee.chunk.css": "/iglesiacarmen/static/css/2.5be9a1ee.chunk.css",
-    "static/js/2.f24550ec.chunk.js": "/iglesiacarmen/static/js/2.f24550ec.chunk.js",
-    "static/js/2.f24550ec.chunk.js.map": "/iglesiacarmen/static/js/2.f24550ec.chunk.js.map",
+    "static/js/2.9741d887.chunk.js": "/iglesiacarmen/static/js/2.9741d887.chunk.js",
+    "static/js/2.9741d887.chunk.js.map": "/iglesiacarmen/static/js/2.9741d887.chunk.js.map",
     "index.html": "/iglesiacarmen/index.html",
     "static/css/2.5be9a1ee.chunk.css.map": "/iglesiacarmen/static/css/2.5be9a1ee.chunk.css.map",
     "static/css/main.adef579d.chunk.css.map": "/iglesiacarmen/static/css/main.adef579d.chunk.css.map",
-    "static/js/2.f24550ec.chunk.js.LICENSE.txt": "/iglesiacarmen/static/js/2.f24550ec.chunk.js.LICENSE.txt",
+    "static/js/2.9741d887.chunk.js.LICENSE.txt": "/iglesiacarmen/static/js/2.9741d887.chunk.js.LICENSE.txt",
     "static/media/1.5867455e.png": "/iglesiacarmen/static/media/1.5867455e.png",
     "static/media/10.5484f2a0.png": "/iglesiacarmen/static/media/10.5484f2a0.png",
     "static/media/2.9bf81e91.png": "/iglesiacarmen/static/media/2.9bf81e91.png",
@@ -64,8 +64,8 @@
   "entrypoints": [
     "static/js/runtime-main.25ed4619.js",
     "static/css/2.5be9a1ee.chunk.css",
-    "static/js/2.f24550ec.chunk.js",
+    "static/js/2.9741d887.chunk.js",
     "static/css/main.adef579d.chunk.css",
-    "static/js/main.f2ce43ef.chunk.js"
+    "static/js/main.9304407b.chunk.js"
   ]
 }
